@@ -1,0 +1,23 @@
+manifestVersion: 1
+id: nalyx-umbrel-jellyseerr
+name: Jellyseerr
+category: Media
+version: "0.0.1"
+tagline: media
+icon: https://raw.githubusercontent.com/Fallenbagel/jellyseerr/7af193b8f65e32c06ed5b7ca5cb21234f28f06fc/public/logo_full.svg
+description: >
+  Jellyseerr is a free and open source software application for managing requests for your media library. It is a a fork of Overseerr built to bring support for Jellyfin & Emby media servers!
+developer: Fallenbagel
+website: https://github.com/Fallenbagel/jellyseerr
+dependencies: []
+repo: https://github.com/Fallenbagel/jellyseerr
+support: https://github.com/Fallenbagel/jellyseerr/issues
+port: 5055
+gallery:
+  - https://i.imgur.com/gtLjT0L.png
+path: ""
+defaultPassword: ""
+releaseNotes: >
+
+submitter: nalyx1
+submission:
