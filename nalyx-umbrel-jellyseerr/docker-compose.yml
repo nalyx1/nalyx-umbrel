@@ -3,7 +3,7 @@ version: "3.8"
 services:
      app_proxy:
           environment:
-               - APP_HOST=nalyx-umbrel-jellyseerr
+               - APP_HOST=nalyx-umbrel-jellyseerr_server_1
                - APP_PORT=3000
      server:
           image: fallenbagel/jellyseerr:latest
