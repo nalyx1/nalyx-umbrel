@@ -13,5 +13,5 @@ services:
           volumes:
                - ${APP_DATA_DIR}/data/config:/app/config
           restart: unless-stopped
-          expose:
-               - "5055"
+          ports:
+            - 5055:5055
